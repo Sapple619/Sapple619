@@ -1,6 +1,7 @@
 ## 👋 Hi, I’m @Sapple619
 
-I'm in Cats🐱&Astrology🔭 departments
+- Cats🐱&Astrology🔭 departments
+- play rhythm games🎵
 
 [![Atcoder Profile](https://atcoder-badge.kro.kr?id=Sapple)](https://atcoder.jp/users/Sapple)
 
